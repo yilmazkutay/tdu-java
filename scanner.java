@@ -7,6 +7,7 @@ public class Main {
 		System.out.print("Lütfen bir değer giriniz: ");
 		
 		int sayi = scanner.nextInt();
+		// scanner.nextLine() - dummy 
 		
 		System.out.println("Girdiğiniz değer: " + sayi);
 	}
